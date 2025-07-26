@@ -1,6 +1,6 @@
 # 🚀 Final GitHub Submission Commands
 
-## ✅ **Your Repository URL**
+## ✅ **My Repository URL**
 ```
 https://github.com/emonhossennn/multilingual-rag-system
 ```
@@ -8,7 +8,7 @@ https://github.com/emonhossennn/multilingual-rag-system
 ## 🔧 **Step-by-Step Submission**
 
 ### **1. Create GitHub Repository**
-1. Go to [GitHub.com](https://github.com)
+1. Go to [GitHub.com](https://github.com/emonhossennn/)
 2. Click "New Repository" (green button)
 3. Repository name: `multilingual-rag-system`
 4. Description: `Multilingual RAG system for Bengali-English queries with HSC Bangla content support`
